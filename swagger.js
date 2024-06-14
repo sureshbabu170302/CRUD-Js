@@ -1,4 +1,3 @@
-const { ServerDescription } = require('mongodb');
 const swaggerJSDoc = require('swagger-jsdoc');
 
 const options = {
